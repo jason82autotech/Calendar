@@ -53,4 +53,4 @@ You are required to submit the following for review:
 
 
 * A Screenshot of the deployed application;
-    ![alt text](./Develop\Calendar_screenshot.png)
+    ![alt text](./Calendar_screenshot.png)
