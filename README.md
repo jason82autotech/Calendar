@@ -45,10 +45,12 @@ The following animation demonstrates the application functionality:
 You are required to submit the following for review:
 
 * The URL of the deployed application;
+    https://jason82autotech.github.io/Calendar/
 
 
 * The URL of the GitHub repository, with a unique name and a README describing the project;
+    https://github.com/jason82autotech/Calendar
 
 
 * A Screenshot of the deployed application;
-![alt text](./Develop\Calendar_screenshot.png)
+    ![alt text](./Develop\Calendar_screenshot.png)
