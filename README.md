@@ -54,3 +54,5 @@ You are required to submit the following for review:
 
 * A Screenshot of the deployed application;
     ![alt text](./Calendar_screenshot.png)
+
+    All work is my own with the help of the awesome tutors and classmates I have! I also used Google, You Tube, MDN Docs, W3 Schools and any other resource I could find on the web.
